@@ -1,0 +1,39 @@
+## MCQ
+Question: According to Jyotiraditya Mishra's resume, which of the following programming languages is he proficient in?
+A) Python
+B) C#
+C) Java
+D) Ruby
+Correct Answer: C) Java
+
+## MCQ
+Question: Which of the following databases is listed in Jyotiraditya Mishra's resume under Technical Skills?
+A) Oracle
+B) PostgreSQL
+C) MongoDB
+D) MariaDB
+Correct Answer: C) MongoDB
+
+## MCQ
+Question: Which framework did Jyotiraditya Mishra utilize in the 'Service Ahead' project?
+A) Angular
+B) Vue.js
+C) Spring Boot
+D) Django
+Correct Answer: C) Spring Boot
+
+## MCQ
+Question: What type of application is the 'Employee Matrix' project described as?
+A) Mobile application
+B) Desktop application
+C) Full-stack CRUD application
+D) Command-line interface application
+Correct Answer: C) Full-stack CRUD application
+
+## MCQ
+Question: Which cloud technology is mentioned in Jyotiraditya Mishra's resume?
+A) Azure
+B) Google Cloud Platform
+C) AWS
+D) DigitalOcean
+Correct Answer: C) AWS

@@ -1,0 +1,45 @@
+This document is a resume for Jyotiraditya Mishra, a recent Computer Science graduate and Java developer. It outlines his objective, education, projects, technical skills, certifications, and activities.
+
+**Objective:**
+
+*   Seeking to apply problem-solving abilities and backend development expertise to build reliable, scalable software solutions in a collaborative and fast-paced environment.
+
+**Education:**
+
+*   **Master of Computer Application (MCA), Chandigarh University, Mohali, Punjab (2023-2025)**
+    *   Relevant Coursework: SDLC, DBMS, Data Analytics, Data Structures & Algorithms
+*   **B.Sc. in Computer Science, Government Holkar Science College, Indore, M.P (2020-2023)**
+    *   Relevant Coursework: Computer Fundamentals, OOPS, C, C++, Networking
+
+**Projects:**
+
+*   **Service Ahead: Car Service Booking Application**
+    *   Platform for booking and managing car services.
+    *   Automated email notifications.
+    *   Secure user interactions using Spring Security and role-based authentication.
+    *   Technologies: Spring Boot, MySQL, Spring Security, React.js
+*   **Employee Matrix: Employee Management System**
+    *   Full-stack CRUD application for managing employee records using React and Spring Boot.
+    *   Features for creating, reading, updating, & deleting employee data.
+    *   RESTful API with Spring Boot for backend operations and data persistence.
+    *   Technologies: Spring Boot, MySQL, Spring Security, React.js
+
+**Technical Skills:**
+
+*   **Programming Languages:** Java, JavaScript
+*   **Databases:** MySQL, MongoDB
+*   **DevOps Tools:** Docker, Jenkins, Git
+*   **Frameworks:** Spring Boot, React.js
+*   **Cloud Technology:** AWS (EC2, S3, VPC)
+
+**Certifications:**
+
+*   **Postman API Fundamentals – Postman (Feb, 2025)**
+    *   Skills: API testing, HTTP methods, Postman collections, environments, scripting
+*   **Data Analytics - IBM (Aug, 2024)**
+    *   Skills: Data analysis, visualization, Structured Query Language, MS Excel
+
+**Activities:**
+
+*   Participated in hackathons and workshops, focusing on real-world problem-solving.
+*   Engaged in general knowledge quizzes, enhancing critical thinking and communication skills.
